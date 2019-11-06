@@ -1,0 +1,9 @@
+{"level":"error","message":"testing unhandled exceptions"}
+{"level":"error","message":"Promise.reject is not a constructor"}
+{"level":"error"}
+{"message":"Connected to MongoDB ...","level":"info"}
+{"level":"error","message":"resolved is not defined"}
+{"level":"error","message":"testing unhandled rejected promises"}
+{"message":"Connected to MongoDB ...","level":"info"}
+{"message":"Connected to MongoDB ...","level":"info"}
+{"message":"Connected to MongoDB ...","level":"info"}
