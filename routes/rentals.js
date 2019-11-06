@@ -2,6 +2,7 @@ const express = require("express");
 const { Rental, validate } = require("../models/rental");
 const { Movie } = require("../models/movie");
 const { Customer } = require("../models/customer");
+const auth = require('../middleware/auth');
 const Fawn = require("fawn");
 const mongoose = require("mongoose");
 const router = express.Router();
@@ -14,7 +15,7 @@ router.get('/', async (req, res) => {
     res.send(rentals);
 });
 
-
+//should be protected by the auth middleware
 router.post('/', async (req, res) => {
     const { error } = validate(req.body);
 
