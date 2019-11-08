@@ -14,7 +14,7 @@ const movieSchema = mongoose.Schema({
         default: 0,
         required: [true, 'Number of movies in stock must be specified']
     },
-    dailyRentalRate: { type: Number, default: 0 },
+    dailyRentalRate: { type: Number, default: 1 },
     genreId: { type: genreSchema, required: true }
 
 });

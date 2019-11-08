@@ -8,7 +8,7 @@ module.exports = function () {
         throw new Error("MongoDB url not set, exiting ...");
 
     mongoose.connect(dburl, { useNewUrlParser: true, useUnifiedTopology: true })
-        .then(() => winston.info("Connected to MongoDB ..."))
+        .then(() => winston.info(`Connected to MongoDB : ${dburl}...`))
     // .catch(err => console.error('Could not connect to the database'))
     //logger.log('error', 'Could not connect to the database', err)
 }

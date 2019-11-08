@@ -1,0 +1,4 @@
+{
+    "JWTprivateKey": "12345",
+    "DBURL": "mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test"
+}

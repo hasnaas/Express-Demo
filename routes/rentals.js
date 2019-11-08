@@ -58,9 +58,6 @@ router.post('/', async (req, res) => {
     catch (ex) {
         res.status(500).send("DB transaction failed");
         console.log(ex.message);
-
-
-
     }
 
 

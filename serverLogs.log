@@ -7,3 +7,357 @@
 {"message":"Connected to MongoDB ...","level":"info"}
 {"message":"Connected to MongoDB ...","level":"info"}
 {"message":"Connected to MongoDB ...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://malik:malikpwd1@ds351807.mlab.com:51807/nodecourse...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://malik:malikpwd1@ds351807.mlab.com:51807/nodecourse...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://malik:malikpwd1@ds351807.mlab.com:51807/nodecourse...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /home/hasna/Bureau/Software/node-course/expressDemo/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Caught error after test environment was torn down\n\nconnect ECONNRESET 127.0.0.1:41599"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /home/hasna/Bureau/Software/node-course/expressDemo/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"level":"error","message":"Caught error after test environment was torn down\n\n\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m401\u001b[39m\nReceived: \u001b[31m500\u001b[39m"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /home/hasna/Bureau/Software/node-course/expressDemo/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"level":"error","message":"Caught error after test environment was torn down\n\n\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m401\u001b[39m\nReceived: \u001b[31m500\u001b[39m"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /home/hasna/Bureau/Software/node-course/expressDemo/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"level":"error","message":"Caught error after test environment was torn down\n\n\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m401\u001b[39m\nReceived: \u001b[31m500\u001b[39m"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at castQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4457:18)\n    at model.Query.Object.<anonymous>.Query._findAndModify (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3416:23)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3379:8)\n    at model.Query._wrappedThunk [as _findOneAndRemove] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at castQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4457:18)\n    at model.Query.Object.<anonymous>.Query._findAndModify (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3416:23)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3379:8)\n    at model.Query._wrappedThunk [as _findOneAndRemove] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at castQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4457:18)\n    at model.Query.Object.<anonymous>.Query._findAndModify (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3416:23)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3379:8)\n    at model.Query._wrappedThunk [as _findOneAndRemove] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at new CastError (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4644:12)\n    at castQuery (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:4457:18)\n    at model.Query.Object.<anonymous>.Query._findAndModify (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3416:23)\n    at model.Query.<anonymous> (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/query.js:3379:8)\n    at model.Query._wrappedThunk [as _findOneAndRemove] (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at process.nextTick (/home/hasna/Bureau/Software/node-course/expressDemo/node_modules/kareem/index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"level":"error","message":"movie is not definedmovie is not defined","stack":"ReferenceError: movie is not defined\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:39:91)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"level":"error","message":"Cannot read property 'numberInStock' of nullCannot read property 'numberInStock' of null","stack":"TypeError: Cannot read property 'numberInStock' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:5)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:17)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"level":"error","message":"Cannot read property 'update' of nullCannot read property 'update' of null","stack":"TypeError: Cannot read property 'update' of null\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:44:17)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"level":"error","message":"Rental.get is not a functionRental.get is not a function","stack":"TypeError: Rental.get is not a function\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:27)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"level":"error","message":"Assignment to constant variable.Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at Object.<anonymous>.router.post (/home/hasna/Bureau/Software/node-course/expressDemo/routes/returns.js:42:11)"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
+{"message":"Connected to MongoDB : mongodb://testuser:testpass1@ds243518.mlab.com:43518/nodecourse-test...","level":"info"}
